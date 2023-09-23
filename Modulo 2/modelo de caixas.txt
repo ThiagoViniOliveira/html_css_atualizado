@@ -1,0 +1,74 @@
+Modelo de Caixas
+aplicavel ao html e as CSS
+
+tudo no html é usado em formado de caixas  - uma coisa dentrod a outra
+e isso tem o nome de aninhamento(forma de ninho)
+
+por exemplo:
+
+<h1>Olá Mundo!</h1>
+
+Ele vai mostrar somente o "Olá mundo"
+
+nesse caso o h1 é um elento de caixa
+e você pode identificar isso vendo no navegador,
+tipo assim tudo o que é visivel na tela é um elemento de caixa
+
+Uma caixa é medida por duas medidas que se chamam height (altura)
+e width (largura)
+	
+Eu posso tb traçar uma linha em volta da caixa
+e essa linha se chama borda (border)
+essa linha é literamente bem grudadda com o conteudo
+
+para dar um espaço entre a linha e o conteudo
+eu vou usar o padding, e é um espaço interno do elemento
+
+mas por exemplo se eu criar outro elemento, eles vao ficar grudados, o border dos dois ficarão grudados
+
+para criar um espaço externo entre eles
+eu vou usar o margin que é a margen
+
+eu tb tenho o traçado, o contorno
+pq a borda é dentro do elemento, ja o traçado é fora
+do elemento que se chama outline
+
+
+Existem dois tipos de caixas
+
+box-level: eu tenho dois conteudos, um embaixo do outro ocupando 
+sempre a largura total da tela do navegador porem cria um espaço entre eles
+
+
+inline-level: conteudos na mesma linha sem quebrar a linha como o box-level e ele
+ocupa o tamanho que ele precisa
+
+
+tags do box-level:
+div (uso quando quero quebrar linha, criar um box
+que ocupa a largura inteira e continuar)
+h1-h6
+main
+header
+p
+nav
+article
+aside
+footer
+form
+video 
+
+
+tags do inline-level:
+span (uso quando eu quero um elemento do lado do outro
+a
+code
+small
+strong
+em
+sup
+sub
+labeç
+button
+input
+select

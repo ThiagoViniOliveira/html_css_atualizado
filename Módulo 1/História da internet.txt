@@ -1,0 +1,32 @@
+Surgiu na guerra Fria (1949)
+Em 1969 a União sovietica lançou o sputnick (primeiro satelite artificial)
+Em 1969 o Presidente militar (Dwight Eisenhower) Fundo a DARPA
+e a DARPA fundou a ARPANET pro questão de segurança de dados.
+A Arpanet tinha 4 pontos(computadores) criados em 1969: SDS Sigma 7 (universidade da california)
+SDS 90 (universidade de stanford), IBM 370/75 (centro de matematica de losangeles)
+e o unico computador militar DEC PDP-10 (base militar de uta)
+
+Para que esses computadoires pudessem se comunicar a Universidade da california criou um protocolo NCP(Protocolo de Controle de Rede)
+
+Em 1972 BOB Kahn Criou o TCP
+vint Cerf Criou o IP
+e Batizaram o TCP/IP
+
+E como ja estava muito grande a rede ARPANET, Decidiram Separar, então os militares ficaram com a MILNET e os cientistas ficaram com NSFNET
+e também uma rede comercial
+
+Link para documentario sobre a internet
+https://youtu.be/TNQsmPf24go
+
+1973 em genebra - Tim Berners-lee
+Criou o https:// e criou o HTML (hyper text Marcup Language)
+Inventou WWW (Word Wide Web)
+
+Marc Andressen
+Criou o primeiro navegador
+
+Servidores especializados
+FTP - Transferencia de Arquivos
+Gopher - Transferencia de Textos Simples 
+SMTP, pop3 e IMAP - Receber e mandar email
+

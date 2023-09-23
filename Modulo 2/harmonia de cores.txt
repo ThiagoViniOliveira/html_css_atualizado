@@ -1,0 +1,53 @@
+fHarmonia de Cores
+
+Circulo Cromático contem 12 cores principais:
+
+Cores primárias: amarelo, vermelho e azul
+
+cores secundarias: laranja, violeta e verde
+
+cores terciarias (mistura de cor primária e secundaria): amarelo-esverdeado,
+amarelo-alaranjado, vermelho-alaranjado, vermelho-arroxeado, azul-arroxeado
+azul-esverdeado
+Sempre que for dar um nome a uma cor terciaria, colocar o
+nome da cor primaria primeiro e depois a cor secundaria 
+
+Do lado esquerdo do circulo cromatico temos as cores frias:
+amarelo-esverdeado, verde, azul-esverdeado, azul, azul-arroxeado, violeta
+
+Do lado direito temos as cores quentes: amarelo, amarelo-alaranjado, laranja
+vermelho-alaranjado, vermelho, vermelho arroxeado
+
+quando for fazer uma paleta de cores, escolher de 3 a 5 cores no máximo
+sem contar o preto e branco que sempre vai ter no site
+
+Se o meu cliente tem um logo que tem uma cor primaria, utilizarei essa cor primaria no site
+
+Cores complementares sao aquelas que se opões completamente uma a outra no circulo cromatico, por exemplo:
+o amarelo e o violeta são cores complementares, pois se opões no circulo cromatico
+então no caso são cores que vão se dar destaques, contrastes  
+
+Cores análogas são aquelas que não tem um contrastes mas a difere~ça é visivel
+e no caso tem harmonia, então vc vai usar as cores vizinhas
+
+ja cores análogas e uma complementar vc usa por exemplo
+a cor principal que é violeta, vc pega as duas vizinhas que são as análogas, vermelho-arroxeado e azul-arroxeado
+e pega uma cor complementar que no caso seria o amarelo
+
+cores análogas relacionadas cria um degrade sem contraste forte
+vc pega duas vizinhas, e pula uma outra similar
+
+então por exemplo, nesse circulo seria amarelo, amarelo-alaranjado, pula o laranja e pega o vermelho-alaranjado
+ou poderia ser uma pra tras, então seria, amarelo-alaranjado, amarelo, pula o amarelo-esverdeado e pega o verde
+
+cores intercaladas vc pega uma cor, pula e pega aproxima do circulo
+
+cores triadicas vc pega o conceito de cores intercaladas que pega uma cor e pula e pega a proxima,
+so que nas cores triadias vc pula tres 
+
+cores em quadrado vc pega uma, pula duas e pega  aproxima
+
+cores tetradicas, vc pega uma cor e pega a complementar dela
+e pega outra cor e pega a completar dela
+
+Monocromia, vc pega uam cor e muda tres vezes a saturação e a luminosidade dela

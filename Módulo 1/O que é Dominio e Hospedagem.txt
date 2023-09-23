@@ -1,0 +1,19 @@
+Dominio - Nome que identifica seu site
+o dominio é unico
+Varios TLDs
+
+Hospedagem - local aonde armazena o site
+
+
+O que é uma URL (Localizador de recurso unico)
+Dentro de uma URL temos partes
+
+Dominio - Google
+GTLD - .com
+CCTLD - .br (contry code(Codigo de pais))
+WWW - sub-dominio
+/ (depois do .com) - caminho 
+Exemplo www.github.com/gustavoguanabara
+exemplo: gustavoguanabaara.github.io
+Aqui, o .io é o GTLD, o .github é o dominio
+e o gustavoguanabara é o sub-dominio

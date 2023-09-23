@@ -1,0 +1,14 @@
+Modulo 1 - Primeiros Passos HTML+CSS
+Conceitos básicos, preparação do ambiente, semantica da html5, textos, titulos, ligações, multimídia, estilos
+
+Modulo 2 - Deixando as coisas mais Bonitas
+Fundamentos do Design, psicologia das cores, tipografia, elementos CSS, modelo de caixas, wireframe, responsividade
+
+Modulo 3 - Colocando um protótipo no ar
+Versionamento de software, hospedagem de sites estaticos, tabelas.
+
+Modulo 4 - Aprofundando os Conhecimentos
+Quadros em linha, formulários, media queries, mobile first.
+
+Modulo 5 - Novas Tecnologias
+Flexbox, grid layout, projeto final 

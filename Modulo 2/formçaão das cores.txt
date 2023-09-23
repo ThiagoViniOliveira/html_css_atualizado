@@ -1,0 +1,27 @@
+Formação das cores em hexadecimal
+
+Toda as cores são formadas pela combinação de vermelho, verde e azul.
+então por exemplo a cor:
+#0000ff
+O primeiro par de zeros, representa "nada de vermelho"
+O Segundo par de zeros, representa "nada de verde"
+Ja o par de F, significa tudo de azul
+
+Tá mas como assim nada de verde ou tudo de azul?
+códigos hexadecimais funciona com base em 16 caracteres
+começando com numeros e combinando com letras
+
+Quando eu falo de decimal, eu falo de numeros que tenham:
+0 1 2 3 4 5 6 7 8 9, totalizando 10 digitos
+
+Quando eu falo de Hexadecimal, eu falo de  16 digitos que são:
+0 1 2 3 4 5 6 7 8 9 A B C D E F 
+No caso se utiliza as letras pois não poderia ser 10 então começa a partir do 9, as letras
+então usando isso nas cores, esses digitos, o "0" representa nada e o F representa tudo.
+
+
+Formação das cores em RGB
+
+AS cores em RGB, o funciona parecidamente com o Hexadecimal, aonde eu tenho um valor que representa "nada de vermelho(R)"
+"nada de verde(G)" e "nada de Azul(B)" formando assim o RGB, porem ao inves de 16 digitos como no hexadecimal,
+aqui os valore svão de 0 até 255, então 0 seria nada e 255 seria o máximo

@@ -1,0 +1,1 @@
+a ideia desse projeto é criar uma biblia em html, aonde eu terei uma pagina prinbcipal com os livros da biblia, e quando eu cliecar em um livro, esse livro ira me levar para uma pagina com os capitulos e cada página mostre um capitulo aonde eu terei como avançar ou voltar um capitulo e terá também um audio de cada capitulo... vamos la

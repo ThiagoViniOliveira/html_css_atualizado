@@ -1,0 +1,10 @@
+Aqui começamos a trabalhar com titulos que no html temos 
+h1, h2, h3, h4, h5, h6.
+
+Essas tags se tratam de niveis de titulos, aonde h1 é o primeiro nivel
+e o h6 é o ultimo nivel... Os niveis tem hierarquia então
+eu nuna cou poder começar por exemplo pelo h3 pois ainda eu tenho
+antes dele o h2 e o h1. Mesmo que por conta de tamanho.
+Basta usar o css para alterar o tamanho por exemplo, mas
+de inicio deixando claro que sempre vou começar usando
+h1, depois h2, depois h3 e assim por diante.

@@ -1,0 +1,14 @@
+Para informar ao navegador que aquele documento é em html5
+eu vou usar a tag:
+<DOCTYPE html>
+Depois eu vou começar o html usando
+<html lang="pt-br">
+	<head>
+		<meta charset = utf-8> (essa linha diz que o meu site será compativel com cvaracteres utf8, assentos, cecidilha)
+		<meta name="viewport" content="width=device-width.initial-scale=1.0"> (essa linha diz que eu vou ocaupar 100% da tela e vai abrir com zoom de 100%
+		<title>Document</title> (titulo do meu site)		
+	</head>
+	<body>
+		<h1> Olá, Olá Mundo!</>
+	</body>
+</html>

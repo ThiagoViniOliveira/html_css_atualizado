@@ -1,0 +1,38 @@
+E-book Historia da Internet - Curso em Video
+
+Referencias On-line
+Referencia MDN - Mozila Develope Metwork
+W3C Standards - Word Wide Web Consortium
+Whatwg Living Standard
+Web Hypertext Application Technology Working Group
+W3Schools - Refnes Data
+
+Livros O'reilly
+HTML5 - Mark Pilgrim
+Flexbox in CSS - Estelle Weyl
+CSS - Eric Meyer
+Grid Layout In CSS - Eric Meyer
+
+Livros
+Html5 e Css3 - Elisabeth Castro e Bruce Hyslop - Alta Books
+Html & Css - Jon Duckett - Alta Books
+HTML e CSS - Elisabeth Robson e Eric Freeman - Alta Books
+Crie seu Proprio site - Nate Cooper e Kim Gee
+
+Livros Mauricio Samy Silva - Novatec
+HTML5
+HTML5 e CSS3
+CSS3
+CSS Grid Layout
+
+Livros de Design
+Curso de Design Gráfico - David Dabner e outros - GG
+Design - Bob e Maggie Gordon - Senac
+A psicologia das Cores - Eva Heller - GG
+Pensar com Tipos - Ellen Lupton - GG
+
+E-books recomendados - ganabanara
+Flexbox Explained - Jorge Montoya e Stephen Burgue - OSTRaining
+CSS GRID EXPLAINED - Jorge Montoya e Stephen burge - OSTRaining
+HTML5 - Bill Sanders - Bookman
+CSS - Eric Meyer - Bookman

@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-image: linear-gradient(rto right, #f1d8c9, #f2c3a7);
+}
+
+main{
+    background-color: white;
+    border-radius: 20px;/*arredondamento da borda*/
+    box-shadow:10px 10px 10px rgba(136, 109,93,0.616);/*primeiro 5px - andar pro lado
+    segundo 5px -andar pra baixo
+    terceiro 15px - espalhamento e por ultimoa  cor*/
+    width: 700px;
+    padding: 10px;/*sem esse comando, o conteudo ficaria sobrando */
+    margin: auto;/*Esse mqargin auto irá centralizar o main independente do tamanho da tela*/
+}
+
+h1{
+    color: #f39209;
+    text-align: center;
+    text-shadow: 1px 1px 0px rgba(129, 77, 5, 0.726);
+}
+
+h2{
+    color:#125189;
+}
+
+p{
+    text-align: justify;
+}

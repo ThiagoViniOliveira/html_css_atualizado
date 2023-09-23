@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplo de Hover</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        div > p /*Isso aqui significa que eu nao vou mexer na div, mas somente no paragrafo que esta dentro da div*/ {
+            display: none; /*Isso aqui permite ocultar algo, no nosso caso, eu estou pedindo para nao mostrar o p*/
+        }
+
+        div:hover > p/*Quando eu passar o mouse na div, o parágrafo que está dentro...*/{
+            display: block;
+            color: white;
+            background-color: red;
+            width: 300px;
+        }
+
+        d 
+
+        div:hover{
+            color:red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Exemplo de hover</h1>
+    <p>Passe o mouse sobre o texto abaixo</p>
+    <div>Passe o mouse aqui
+
+        <p>Texto Escondido</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+algumas tags que fazimam parte do html 4 se tornaram obsoletas
+e no html5 AINDA "funciona" porém pelo orgao oficial do html
+não se deve mais ser utilizado então não faz mais sentido aprender dessa forma
+
+A gente escuta muito falar sobre SEMANTICA
+que nada mais é do que significado ao invés de forma
+
+Por exemplo, uma tagb que ficou obsoleta é <center>
+que servia para deixar o conteudo centralizado na pagina, 
+Essa tag center não é baseada em significado, mas sim em forma
+
+o parâmetro de cor, de fonte, tamanho de fonte tb são formas
+não se baseiam em significado, pois o html5 foca no conteudo
+e não no estilo, decoração etc...

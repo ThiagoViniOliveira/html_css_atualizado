@@ -1,0 +1,15 @@
+Este Curso é pra mim SE:
+"Me interesso por aprender a criar sites, mas não sei por onde começar"
+"Ja tentei, mas acho confuso 'decorar' tantos comandos"
+"Tenho boa base, mas quero me aprofundar nas especificações"
+"Consigo adaptar códigos prontos, mas não sei criar os meus próprios sites"
+"Estou tendo essa disciplina e estou com dificuldades"
+"Além de aprender a criar sites, quero deixá-los na Internet"
+
+Este Curso não é pra mim SE:
+"Eu ja sei tudo sobre desenvolvimento HTML5 e CSS3"
+"Estou procurando por códigos prontos e templates para sites"
+"Estou com pressa e preciso aprender em poucas semanas"
+"Quero apenas uma lista de comandos, sem 'papinho' extra"
+"Não consigo esperar o lançamentos de aulas semanais"
+"Prefiro consultar a documentação oficial das linguagens"

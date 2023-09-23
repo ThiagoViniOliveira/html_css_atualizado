@@ -1,0 +1,24 @@
+O Computador tem uma linguagem propria que á os codigos binarios
+representados por 0 e 1
+Cada 0 ou 1 é um bit
+1 byte é o conjunto de 8 bits
+1024 bytes é representado por 1KiloBYTE ou KB
+1024 Kb = 1MB
+1024 MB = 1GB
+1024 GB = 1TB
+1024 TB = 1PB
+1024 PB = 1EB
+1024 EB = 1ZB
+1024 ZB = 1YB
+
+MB =! Mb
+MB = MegaByte (armazenamento)
+Mb = MegaBits (transmissão)
+
+A conexão que o computador entende é de rede Quadrada
+A conexão que a rede telefonica por exemplo entende é a rede senoidal
+o Modem em nossas casas servem para fazera  modulação que é
+transformar onda quadrada em onda senoidal e também faz a demodulação
+que transforma a onda senoidal em onda quadrada
+
+DNS - Sistema de nomes de Dominio
