@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrossel de Parágrafos</title>
+    <style>
+        #carrossel {
+            width: 300px;
+            overflow: hidden;
+        }
+        #paragrafos {
+            display: flex;
+            transition: transform 0.3s ease-in-out;
+        }
+        .paragrafo {
+            flex: 0 0 100%;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="carrossel">
+        <div id="paragrafos">
+            <div class="paragrafo">Parágrafo 1</div>
+            <div class="paragrafo">Parágrafo 2</div>
+            <div class="paragrafo">Parágrafo 3</div>
+            <div class="paragrafo">Parágrafo 4</div>
+            <div class="paragrafo">Parágrafo 5</div>
+        </div>
+    </div>
+    <button id="anterior">Anterior</button>
+    <button id="proximo">Próximo</button>
+
+    <script>
+        const carrossel = document.getElementById('carrossel');
+        const paragrafos = document.getElementById('paragrafos');
+        const paragrafoWidth = document.querySelector('.paragrafo').offsetWidth;
+        const anteriorBtn = document.getElementById('anterior');
+        const proximoBtn = document.getElementById('proximo');
+
+        let currentIndex = 0;
+
+        anteriorBtn.addEventListener('click', () => {
+            currentIndex = (currentIndex - 1 + paragrafos.children.length) % paragrafos.children.length;
+            atualizarCarrossel();
+        });
+
+        proximoBtn.addEventListener('click', () => {
+            currentIndex = (currentIndex + 1) % paragrafos.children.length;
+            atualizarCarrossel();
+        });
+
+        function atualizarCarrossel() {
+            const deslocamento = -currentIndex * paragrafoWidth;
+            paragrafos.style.transform = `translateX(${deslocamento}px)`;
+        }
+    </script>
+</body>
+</html>
